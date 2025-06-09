@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,region
+1001,C001,2024-01-05,Laptop,Electronics,1,1,200,North
+1002,C002,2024-01-07,Smartphone,Electronics,2,600,South
+1003,C003,2024-01-10,Desk,Furniture,1,300,West
+1004,C001,2024-01-12,Chair,Furniture,4,75,North
+1005,C004,2024-01-15,Monitor,Electronics,2,200,East
+1006,C005,2024-01-20,Laptop,Electronics,1,1150,South
+1007,C002,2024-01-22,Tablet,Electronics,3,350,East
+1008,C006,2024-01-25,Chair,Furniture,2,80,West
+1009,C007,2024-01-27,Desk,Furniture,1,320,North
+1010,C003,2024-01-30,Smartphone,Electronics,1,620,South
